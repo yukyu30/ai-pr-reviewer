@@ -5,6 +5,7 @@ export class TokenLimits {
   knowledgeCutOff: string
 
   constructor(model = 'gpt-3.5-turbo') {
+    this.knowledgeCutOff = '2021-09-01'
     switch (model) {
       case 'gpt-4-turbo-preview':
         this.maxTokens = 128000
