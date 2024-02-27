@@ -275,3 +275,7 @@ messages
   [more conservative data usage policy](https://openai.com/policies/api-data-usage-policies)
   compared to their ChatGPT offering.
 - This action is not affiliated with OpenAI.
+
+### sample
+<img width="1039" alt="image" src="https://github.com/yukyu30/ai-pr-reviewer/assets/61819079/7374e0e4-fe97-4da9-992c-4a40ffa916dc">
+
